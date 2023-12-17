@@ -90,3 +90,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeryArdiansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
+
+<br/>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GeryArdiansyah/GeryArdiansyah/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
